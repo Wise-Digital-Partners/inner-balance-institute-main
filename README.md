@@ -1,6 +1,6 @@
-## Inner Balance
+# Inner Balance
 
-# Blog with Gatsby
+### Blog with Gatsby
 
 _Fully customizable blog template with a React.js front-end._
 
